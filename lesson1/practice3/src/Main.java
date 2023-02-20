@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Вариант 1, РИБО-05-21, Путенков Иван Олегович");
+        System.out.println("Вариант 3, РИБО-05-21, Путенков Иван Олегович");
         System.out.print("Введите начальное значение (значение должно быть трёхзначным):");
         String s = in.next();
         System.out.print("Введите конечное значение (значение должно быть трёхзначным):");
