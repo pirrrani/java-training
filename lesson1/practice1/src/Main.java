@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
+        System.out.println("Вариант 1, РИБО-05-21, Путенков Иван Олегович");
         System.out.println("Вычисление площади и периметра прямоугольника.");
         System.out.print("Введите сторону 'a' прямоугольника:");
         float a = in.nextInt();
