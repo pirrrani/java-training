@@ -10,6 +10,8 @@ public class Main {
         passports.add(new Passport("Задорнов Андрей Антонович", 445566,"сантехник", false));
         passports.add(new Passport("Ромов Иван Иванович", 112134,"директор", true));
         passports.add(new Passport("Вуйчич Юлия Аристарховна", 306306,"секретарь", false));
+        passports.add(new Passport("Колобков Генадий Богданович", 333475,"уборщик", false));
+        passports.add(new Passport("Иванов Владимир Владимирович", 767501,"охранник", true));
 
         Collections.sort(passports, Passport.PersonsNameComparator);
         System.out.println("Список сотрудников (сортировка по имени):");

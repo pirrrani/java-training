@@ -4,8 +4,6 @@ public class Main {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
 
-        System.out.println("Вариант 1, РИБО-05-21, Путенков Иван Олегович");
-
         ArrayList<Car> vehicles = new ArrayList<>();
         vehicles.add(new Car("Toyota", 2010, "с888тн"));
         vehicles.add(new Car("Lada", 2003, "м736он"));
