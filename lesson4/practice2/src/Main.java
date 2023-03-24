@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        System.out.println("Вариант 1, РИБО-05-21, Путенков Иван Олегович");
+        System.out.println("Вариант 2, РИБО-05-21, Путенков Иван Олегович");
 
         ArrayList<Phone> phones = new ArrayList<>();
         phones.add(new Phone("Panasonic", "X252325ZMD","white", false));
