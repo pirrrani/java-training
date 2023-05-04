@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="main_string">ДЕЛИМЫЕ ЧИСЛА</string>
+    <string name="from_hint">От какого числа</string>
+    <string name="to_hint">До какого числа</string>
+    <string name="del_num_hint">Число-делитель</string>
+    <string name="start_button">Посчитать</string>
+</resources>

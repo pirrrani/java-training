@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="Ploshad"></string>
+    <string name="Perimetr"></string>
+    <string name="hint_1">Введите сторону a</string>
+    <string name="hint_2">Введите сторону b</string>
+    <string name="hint_3">Введите сторону c</string>
+</resources>

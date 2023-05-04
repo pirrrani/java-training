@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="Progname">БАНКОВСКИЙ КАЛЬКУЛЯТОР</string>
+    <string name="hint_1">Длительность вклада</string>
+    <string name="hint_2">Годовой процент по вкладу</string>
+    <string name="hint_3">Начальная сумма</string>
+</resources>
